@@ -5,10 +5,15 @@ Esta máquina está diseñada para poner a prueba tus habilidades en seguridad i
 Acerca de: 
 
 Name: PowerGrid: 1.0.1
+
 Date release: 28 May 2020
+
 Author: Thomas Williams
+
 Series: PowerGrid
+
 Web page: https://security.caerdydd.wales/powergrid-ctf/
+
 
 
 
@@ -21,15 +26,17 @@ Desafortunadamente, los delincuentes han iniciado un reloj de 3 horas. ¿Podrás
 
 Este ejercicio está diseñado para completarse de una sola vez. Apagar la máquina virtual no pausará el temporizador. Después de que el temporizador haya terminado, la máquina CTF se apagará y no podrás iniciarla. Por favor, haz una copia de seguridad local de la CTF antes de comenzar, en caso de que desees intentarlo por segunda vez.
 
+
 Si quieres tener éxito, te recomiendo leer estos puntos:
 
-Haz una copia de seguridad local antes de comenzar en caso de que se te acabe el tiempo.
-Necesitarás un entendimiento básico de la herramienta GPG y cómo funciona.
-Configura tus herramientas para que funcionen al nivel máximo/más difícil posible. Asegúrate de estar bucleando alrededor de lo correcto, si entiendes a lo que me refiero.
-Obtener el shell inicial es posiblemente la parte más larga.
-Hay un total de cuatro banderas. Cada archivo de bandera te guiará hacia la siguiente área.
-Esta máquina virtual ha sido probada solo en VirtualBox. No puedo garantizar que funcione en VMWare, pero debería estar bien.
-SHA-256: 8bc79937082748c21de14c5da3772f7fc750d52b68cf27816922186f6e68d6b7
+- Haz una copia de seguridad local antes de comenzar en caso de que se te acabe el tiempo.
+- Necesitarás un entendimiento básico de la herramienta GPG y cómo funciona.
+- Configura tus herramientas para que funcionen al nivel máximo/más difícil posible. Asegúrate de estar bucleando alrededor de lo correcto, si entiendes a lo que me refiero.
+- Obtener el shell inicial es posiblemente la parte más larga.
+- Hay un total de cuatro banderas. Cada archivo de bandera te guiará hacia la siguiente área.
+- Esta máquina virtual ha sido probada solo en VirtualBox. No puedo garantizar que funcione en VMWare, pero debería estar bien.
+- SHA-256: 8bc79937082748c21de14c5da3772f7fc750d52b68cf27816922186f6e68d6b7
+
 Está clasificado como 'Difícil' (según la matriz aquí: https://security.caerdydd.wales/ctf-difficulty-levels/)
 
 Cambios v1.0.1 - 2020-05-28 v1 - 2020-05-20
