@@ -1,4 +1,4 @@
-Este repositorio es un Walkthrough sobre como reesolver la maquina virtual PowerGrid 1.0.1, disponible en la página Vulnhub: https://www.vulnhub.com/entry/powergrid-101,485/
+Este repositorio es un Walkthrough sobre como reesolver la maquina virtual PowerGrid 1.0.1. Esta VM se encuentra disponible en la página Vulnhub: https://www.vulnhub.com/entry/powergrid-101,485/
 Esta máquina está diseñada para poner a prueba tus habilidades en seguridad informática y hacking ético.
 
 
