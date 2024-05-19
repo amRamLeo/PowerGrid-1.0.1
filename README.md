@@ -17,7 +17,8 @@ Web page: https://security.caerdydd.wales/powergrid-ctf/
 
 
 
-Descripción:.
+Descripción:
+
 Los ciberdelincuentes han tomado el control de la red eléctrica en toda Europa. Como miembro del servicio de seguridad, se te encarga penetrar en su servidor, obtener acceso de root y evitar que lancen su malware antes de que sea demasiado tarde.
 
 Sabemos por inteligencia previa que este grupo a veces utiliza contraseñas débiles. Te recomendamos que examines este vector de ataque primero; asegúrate de configurar tus herramientas correctamente. No tenemos tiempo que perder.
